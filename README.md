@@ -20,4 +20,4 @@ This project showcases essential modules like Home, New Admissions, Digital Libr
 
 ## 🚀 Deployment Link (Mandatory)
 Live Project Link:  
-https://your-deployed-project-link.com
+https://aloknagar188.github.io/school-Management/
